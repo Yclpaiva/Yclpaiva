@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yuri Paiva
-- 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning Python, Django and Data Science.
+- 🌱 I’m currently learning Python, Django.
 - 📫 How to reach me https://www.linkedin.com/in/yuri-paiva/
 
 <!---
