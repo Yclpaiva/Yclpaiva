@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yuri Paiva
-- 🌱 I’m currently learning C, Python, Django.
+- 🖥️ C, Python, Django, HTML/CSS, JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/yuri-paiva/
 
 <!---
