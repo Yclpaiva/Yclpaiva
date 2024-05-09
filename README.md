@@ -7,7 +7,7 @@
 </p>
 
 
-- 🖥️ C, Python, Django, HTML/CSS, JavaScript, React
+- 🖥️ C, C#, .NET, Python, Django, HTML/CSS, JavaScript, React
 - 📫 How to reach me https://www.linkedin.com/in/yuri-paiva/
 
 <hr>
