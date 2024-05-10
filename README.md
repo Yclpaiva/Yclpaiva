@@ -5,7 +5,7 @@
     <img src="https://wakatime.com/badge/user/018b9094-810a-46fe-95a2-26581d14bd78.svg" alt="Wakatime Badge">
   </a>
 </p>
-<!-- arch + leftwm + alacritty + helix + nushell + starship + batcat + exa + ripgrep + uutils -->
+<!-- debian + i3wm + alacritty + nvim + nushell + starship + batcat + exa + ripgrep + uutils -->
 
 - 🖥️ C, C#, .NET, Python, Django, HTML/CSS, JavaScript, React
 - 📫 How to reach me https://www.linkedin.com/in/yuri-paiva/
