@@ -12,11 +12,11 @@
 
 <hr>
 <div align='center'>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yclpaiva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=041ED8&text_color=FFFFFF&bg_color=0d1117" alt="Breno Soares Fontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yclpaiva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=Yclpaiva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=041ED8&text_color=FFFFFF&bg_color=0d1117" alt="Breno Soares Fontes github stats" /> 
+  <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yclpaiva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
   </div>
   <hr>
 <div  align='center'>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yclpaiva&icons=true&bg_color=0d1117&icon_color=041ED8&layout=compact&text_color=FFFFFF">
+<img height='500px' src="https://github-readme-stats.vercel.app/api/wakatime?username=Yclpaiva&icons=true&bg_color=0d1117&icon_color=041ED8&layout=compact&text_color=FFFFFF">
 </div>
 
