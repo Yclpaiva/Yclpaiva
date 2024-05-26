@@ -6,7 +6,7 @@
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>I’m Yuri, a student of Systems Analysis and Development at the Federal Institute of Pernambuco, where I am a participant in the institution's programming club., and I also study Telecommunications/Networks at the same institution btw. I've been a daily computer user since I was 2 years old, althought between comings and goings in the area of programming with batch and python, I only consider that I started programming in 2020, initially developing my own games prototypes in Unity/UE4 using C/C++, creating mods for my favorite games by Paradox Interactive and Minecraft.
+<p>I’m Yuri, a student of Systems Analysis and Development at the Federal Institute of Pernambuco, where I am a participant in the institution's programming club, and I also study Telecommunications/Networks at the same institution btw. I've been a daily computer user since I was 2 years old, althought between comings and goings in the area of programming with batch and python, I only consider that I started programming in 2020, initially developing my own games prototypes in Unity/UE4 using C/C++, creating mods for my favorite games by Paradox Interactive and Minecraft.
 <br>
 <br>
 - In 2022, during my courses on Operating Systems and Software, I developed a passion for FOSS (Free and Open Source Software) and began creating my own applications and tools. This passion inspired me to pursue a B.Sc in Computer Science. Since then, I've developed various applications ranging from web scrapers and APIs to CLI tools and HTTP/Web servers.
