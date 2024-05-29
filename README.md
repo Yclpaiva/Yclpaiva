@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041ED8&height=120&section=header&text=Yuri&fontColor=FFFFFF&textBg=false" title="welcome! I'm yuri" alt="welcome! I'm yuri" />
 <p align="center">
   <a href="https://wakatime.com/@018b9094-810a-46fe-95a2-26581d14bd78">
-    <img src="https://komarev.com/ghpvc/?username=yclpaiva&style=flat&color=313131&label=views" title="last weeks profile views" style="margin-right=20px"> <img src="https://wakatime.com/badge/user/018b9094-810a-46fe-95a2-26581d14bd78.svg" title="Wakatime timespent badge" alt="Wakatime Badge">
+    <img src="https://komarev.com/ghpvc/?username=yclpaiva&style=flat&color=313131&label=views" title="last weeks profile views" style="margin-right=20px"> <img src="https://wakatime.com/badge/user/018b9094-810a-46fe-95a2-26581d14bd78.svg" title="Wakatime time spent programming badge" alt="Wakatime Badge">
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
