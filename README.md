@@ -15,7 +15,7 @@
 </p>
 <br>
 <ul>
-  <li>🖥️ Python, GO, Javascript, Django, HTML/CSS, React, C and C#/.NET </li>
+  <li>🖥️ Python, GO, Java/Typescript, Django, HTML/CSS, React, C and C#/.NET </li>
   <li>📅 Programming since 2020 </li>
   <li>📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco </li>
   <li>📡 Also studying Telecommunications/Networks at the same institution </li>
