@@ -9,7 +9,7 @@
 <p>I’m Yuri, a student of Systems Analysis and Development at the Federal Institute of Pernambuco, where I am a participant in the institution's competitive programming club, and I also study Telecommunications/Networks at the same institution btw. I've been a daily computer user since I was 2 years old, althought between comings and goings in the area of programming with batch and python, I only consider that I started programming in 2020, initially developing my own games prototypes in Unity/UE4 using C/C++, and creating mods for my favorite games by Paradox Interactive and Minecraft.
 <br>
 <br>
-- In 2022, during my courses on Operating Systems and Software, I developed a passion for FOSS (Free and Open Source Software) and began creating my own applications and tools. This passion inspired me to pursue a B.Sc in Computer Science. Since then, I've developed various applications ranging from web scrapers and APIs to CLI tools and HTTP/Web servers.
+- In 2022, during my courses on Operating Systems and Software, I developed a passion for FOSS (Free and Open Source Software) and began creating my own applications and tools. This passion inspired me to pursue a B.Sc in Computer Science field. Since then, I've developed a lot of applications and tools ranging from web scrapers, automation, IoT solutions, APIs, CLI tools and HTTP/Web servers.
 <br><br>
 - My experience and knowledge spans over multiple languages and technologies, but my primary focus is Python and Go for backend applications and React/HTMX/JS for web development/FE.
 </p>
