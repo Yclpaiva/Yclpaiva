@@ -52,8 +52,16 @@ I am especially interested in systems where AI is not just a chat layer, but par
   <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square" alt="Anthropic API">
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API">
   <img src="https://img.shields.io/badge/RAG-0B5FFF?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Embeddings-0B5FFF?style=flat-square" alt="Embeddings">
   <img src="https://img.shields.io/badge/Vector_Search-0B5FFF?style=flat-square" alt="Vector Search">
   <img src="https://img.shields.io/badge/AI_Agents-0B5FFF?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0B5FFF?style=flat-square" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Tool_Calling-0B5FFF?style=flat-square" alt="Tool Calling">
+  <img src="https://img.shields.io/badge/Function_Calling-0B5FFF?style=flat-square" alt="Function Calling">
+  <img src="https://img.shields.io/badge/LLM_Evaluation-0B5FFF?style=flat-square" alt="LLM Evaluation">
+  <img src="https://img.shields.io/badge/Agentic_Coding-0B5FFF?style=flat-square" alt="Agentic Coding">
+  <img src="https://img.shields.io/badge/Pi_Coding_Agent-0B5FFF?style=flat-square" alt="Pi Coding Agent">
+  <img src="https://img.shields.io/badge/Mistral_API-FF7000?style=flat-square" alt="Mistral API">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Typebot-0B5FFF?style=flat-square" alt="Typebot">
 </p>
