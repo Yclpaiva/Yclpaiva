@@ -1,50 +1,88 @@
-<!-- debian + i3wm + warp + nvim + nushell + ranger + starship + batcat + exa + ripgrep + uutils -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041ED8&height=120&section=header&text=Yuri&fontColor=FFFFFF&textBg=false" title="welcome! I'm yuri" alt="welcome! I'm yuri" />
+<!-- GitHub profile README for Yclpaiva -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B5FFF&height=120&section=header&text=Yuri%20Paiva&fontColor=FFFFFF&fontSize=38&animation=fadeIn" alt="Yuri Paiva profile header" />
+
 <p align="center">
-  <a href="https://wakatime.com/@018b9094-810a-46fe-95a2-26581d14bd78">
-    <img src="https://komarev.com/ghpvc/?username=yclpaiva&style=flat&color=313131&label=views" title="last weeks profile views" style="margin-right=20px"> <img src="https://wakatime.com/badge/user/018b9094-810a-46fe-95a2-26581d14bd78.svg" title="Wakatime's time spent programming badge" alt="Wakatime Badge">
-  </a>
+  <a href="mailto:yclpaiva@gmail.com"><img src="https://img.shields.io/badge/Email-yclpaiva%40gmail.com-0B5FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email badge"></a>
+  <a href="https://www.linkedin.com/in/yuri-paiva/"><img src="https://img.shields.io/badge/LinkedIn-yuri--paiva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge"></a>
+  <a href="https://github.com/Yclpaiva"><img src="https://img.shields.io/badge/GitHub-Yclpaiva-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=yclpaiva&style=flat-square&color=0B5FFF&label=Profile%20views" alt="Profile views badge">
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
-<br>
-- My experience and knowledge spans over multiple languages and technologies, but my primary focus is Python and Go for backend applications and React/HTMX/JS for web development/FE.
+
+## Software Engineer, AI Agents, RAG and automation platforms
+
+I build software that connects AI systems to real products: agentic workflows, RAG pipelines, LLM-powered automations, multi-tenant APIs, integrations, observability and internal developer tools.
+
+My current work is focused on applied AI engineering and production automation. I have hands-on experience with LangChain, LangGraph, tool/function calling, vector search, prompt engineering, LLM evaluation, n8n workflows, Typebot customization, REST APIs, PostgreSQL and cloud infrastructure.
+
+I am especially interested in systems where AI is not just a chat layer, but part of a reliable product architecture with tools, state, validation, permissions, logs, fallback and measurable business impact.
+
+## What I work with
+
+- **AI engineering:** AI Agents, RAG, embeddings, vector search, prompt engineering, tool/function calling, LLM APIs and evaluation.
+- **Agentic development:** built a custom TypeScript agent harness on top of Pi Coding Agent and use agentic coding tools daily.
+- **Backend and APIs:** REST APIs, webhooks, Swagger/OpenAPI, authentication, multi-tenancy, service layers and production integrations.
+- **Automation platforms:** production n8n workflows, internal n8n customization, Typebot customization and conversational automation.
+- **Cloud and operations:** Docker, Linux, AWS, Azure, GCP, CI/CD, observability, logging, auditing and troubleshooting.
+- **Frontend:** React, Next.js, Vue.js, Tailwind CSS and product UI implementation when needed.
+
+## Current stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
 </p>
-<br>
-<ul>
-  <li>🖥️ Python, GO, Java/Typescript, Django, HTML/CSS, React, C and C#/.NET </li>
-  <li>📅 Programming since 2020 </li>
-  <li>📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco </li>
-  <li>📡 Also studying Telecommunications/Networks at the same institution </li>
-  <li>🔧 Fell in love with FOSS (Free and open-source software) and custom software development in 2023 during operating systems and software classes, since then I've been pursuing carrer in software dev </li>
-  <li>💻 Now developing a variety of applications, from web scrapers and APIs to CLI tools and HTTP servers </li>
-  <li>🤩 In Love to build any application, in any language, as long I'm being challenged!</li>
-  <li>❤️ Enthusiastic CS student and eternal learner</li>
-  <li>📫 Contact me via <a href="mailto:yclpaiva@gmail.com">yclpaiva@gmail.com</a> or via <a href="https://www.linkedin.com/in/yuri-paiva/">LinkedIn</a></li>
-</ul>
-<br>
-<!-- Projects Section-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
 
-### 🔭 My biggest Projects:
+## AI and automation toolkit
 
-| **Freelancing** | **Bash, Go, Python, JavaScript, C#** |
-| --- | --- |
-|• [************](#private) - Web Automation bot for ** made with playwright, captcha solving with OpenCV, integration with the already built client's infrastructure, and friendly end-user UI control panel, made with Python + libs <br>• [************](#private) - Web automation application portability from Windows and UI to Linux and CLI to run as a service in Server/AWS, API to control each instance and consume/sending data and status <br>• [************](#private) - Self generated blog website, with gemini API's endpoints to articles generation, HTML/CSS/Bootstrap in the FE and Django + PostgreSQL in the BE |• [Unnamed](#private) - Victoria 3 in modern times, made entirely to be runned in browser, made with React and GO, that's my flagship project <br>• [Open ChatGPT](#Private) - 100% free ChatGPT API made with Playwright and EFCore implemented in C#<br>• [Unnamed](#Private) - powerful and easy to use CLI tool, .bashrc config manager for Linux implemented in GO <br> |
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square" alt="Anthropic API">
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/RAG-0B5FFF?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Vector_Search-0B5FFF?style=flat-square" alt="Vector Search">
+  <img src="https://img.shields.io/badge/AI_Agents-0B5FFF?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Typebot-0B5FFF?style=flat-square" alt="Typebot">
+</p>
 
-<!-- End Projects Section -->
+## Selected engineering experience
 
+- Built GenAI prototypes with **LangChain** and **LangGraph**, including tool-using agents, multi-step workflows, function calling and REST API integration.
+- Implemented **RAG pipelines** with ingestion, chunking, embeddings, vector storage, retrieval and contextual LLM responses.
+- Built a custom **agentic development harness** in TypeScript on top of Pi Coding Agent for daily software development workflows.
+- Maintained production **multi-tenant APIs** with authentication, webhooks, Swagger/OpenAPI documentation and integration contracts.
+- Developed and maintained production **n8n workflows** and an internal customized n8n version for company-specific product needs.
+- Maintained an internal **Typebot** version with custom behavior, branding, localization and integrations for conversational automation.
+- Worked on production systems involving WhatsApp automation, document retrieval, monitoring workflows, operational dashboards and external API integrations.
 
-<div align='center' style="margin-top:'50px'">
-  
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=Yclpaiva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=041ED8&text_color=FFFFFF&bg_color=0d1117" alt="Yuri Paiva github stats" title="Yuri Paiva github stats" /> 
-  <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yclpaiva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Yuri Paiva top languages" title="Yuri Paiva top languages"/>
-  <img title="trophies" src="https://github-profile-trophy.vercel.app/?username=Yclpaiva&theme=onedark&no-frame=false&row=1&&margin-w=20&no-bg=true">
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
-<img align="center" title="last month contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yclpaiva&theme=github-dark"/>
-  </div>
-<div  align='center'>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
-  <img height='500px' title="Time stamp in each language" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yclpaiva&icons=true&bg_color=0d1117&icon_color=041ED8&layout=compact&text_color=FFFFFF" alt="Time stamp in each language">
-</div>
+## Background
 
+- Mid-Level Software Engineer at **Workfacilit**, working with applied AI, automations, integrations and SaaS platform development.
+- Former Junior Full Stack Developer at **Pratics**, building automations, APIs, cloud services and Django/PostgreSQL applications.
+- Junior Full Stack Developer at **IFPE Research Center**, working with Node.js, Go, Java, cloud infrastructure and internal communication systems.
+- Systems Analysis and Development student at **Instituto Federal de Pernambuco**.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yclpaiva&theme=github-dark&hide_border=true&area=true" alt="Yuri Paiva GitHub activity graph">
+</p>
+
+## Contact
+
+If you want to talk about AI agents, automation platforms, backend systems, applied GenAI or product engineering, reach me at **[yclpaiva@gmail.com](mailto:yclpaiva@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/yuri-paiva/)**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B5FFF&height=90&section=footer" alt="Profile footer" />
