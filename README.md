@@ -28,7 +28,7 @@ I am especially interested in systems where AI is not just a chat layer, but par
 
 ## Current stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -45,7 +45,7 @@ I am especially interested in systems where AI is not just a chat layer, but par
 
 ## AI and automation toolkit
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
