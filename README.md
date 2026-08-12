@@ -83,6 +83,12 @@ I am especially interested in systems where AI is not just a chat layer, but par
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yclpaiva&theme=github-dark&hide_border=true&area=true" alt="Yuri Paiva GitHub activity graph">
 </p>
 
+## GitHub contributions
+
+<p align="center">
+  <img src="https://gitlyy.vercel.app/api/contribution?username=Yclpaiva&hide_border=true" alt="Yclpaiva GitHub contributions">
+</p>
+
 ## Contact
 
 If you want to talk about AI agents, automation platforms, backend systems, applied GenAI or product engineering, reach me at **[yclpaiva@gmail.com](mailto:yclpaiva@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/yuri-paiva/)**.
